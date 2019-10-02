@@ -105,15 +105,15 @@
 
 18.5 : To be eligible for nomination a candidate shall have paid the appropriate subscription prior to the end of the Hillary Term immediately preceding, or have been a member of the Executive Committee prior to the end of the self same term.
 
-18.5 : To be eligible for nomination to the position of Auditor, a candidate shall have been been a member of the Executive Committee or System Administration Committee for at least two terms preceding the term in which the Annual General meeting is held. Only if there are no nominees meeting these criteria shall the position be opened to the rest of the membership.
+18.6 : To be eligible for nomination to the position of Auditor, a candidate shall have been been a member of the Executive Committee or System Administration Committee for at least two terms preceding the term in which the Annual General meeting is held. Only if there are no nominees meeting these criteria shall the position be opened to the rest of the membership.
 
-18.6 : Nominations for the other offices of the Executive Committee, excluding the Head System Administrator, shall be given to the Returning Officer up to 24 hours before the start of the Annual General Meeting.
+18.7 : Nominations for the other offices of the Executive Committee, excluding the Head System Administrator, shall be given to the Returning Officer up to 24 hours before the start of the Annual General Meeting.
 
-18.7 : To be eligible for nomination, a candidate shall have paid the appropriate subscription prior to the end of the Hillary term immediately preceding, or have been a member of the Executive Committee prior to the end of the self-same term.
+18.8 : To be eligible for nomination, a candidate shall have paid the appropriate subscription prior to the end of the Hillary term immediately preceding, or have been a member of the Executive Committee prior to the end of the self-same term.
 
-18.8 : The Returning Officer, and the Executive Committee, shall arrange the details of the election.
+18.9 : The Returning Officer, and the Executive Committee, shall arrange the details of the election.
 
-18.9 : Any vacancy arising in any office or among the members of the Executive Committee, for whatever reason, shall be filled at the Executive Committees discretion.
+18.10 : Any vacancy arising in any office or among the members of the Executive Committee, for whatever reason, shall be filled at the Executive Committees discretion.
 
 19.1 : The incoming Head System Administrator shall be elected at a joint meeting of the outgoing Executive Committee and the outgoing System Administration Committee. At this meeting, the Auditor, Secretary, Treasurer, the 3 Ordinary System Administrators and the 3 Ordinary Committee Members shall each have one vote, whereas the outgoing Head System Administrator shall have two votes. The outgoing Auditor shall have a casting vote.
 
