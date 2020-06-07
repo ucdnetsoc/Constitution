@@ -1,21 +1,23 @@
-# UCD Netsoc Constitution				
+
+# UCD Internet & Computer Science Society Constitution				
 
 ## NAME
 
-1.1 : There shall be a society called The UCD Computer Science and Networking Society, also known as netsoc.
+1.1 : There shall be a society called _UCD Internet & Computer Science Society_, herein known as _Netsoc_.
 
-## OBJECTS
+## OBJECTIVES
 
-2.1 : The objects of the society shall be:
-* 2.1.1 : To develop and encourage the interest of the UCD community in the Internet;
-* 2.1.2 : To run for the benefit of the members equipment capable of carrying out Internet-related functions, and supplying services in return for membership fees;
-* 2.1.3 : To educate and inform on Internet-related topics wherever possible.
+2.1 : The objectives of the society shall be:
+* 2.1.1 : To develop and encourage the interest of the UCD community in the internet, computer science and technology;
+* 2.1.2 : To educate and inform on internet, computer science and technology topics wherever possible.
+* 2.1.3 : To provide technical infrastructure and supplying services for the benefit of the members capable of carrying out internet-related functions
+* 2.1.4 : To build a community for Computer Science students in UCD
 
-2.2 : The funds of the Society shall be applied for the purpose of furthering these objects.
+2.2 : The funds of the Society shall be applied for the purpose of furthering these objectives.
 
 ## MEMBERSHIP
 
-3.1 : Membership of the Society shall be open to all students, staff and post graduates the college.
+3.1 : Membership of the Society shall be open to all students, staff and post-graduates the college.
 3.2 : Membership shall be obtained by either paying the appropriate membership fee and signing the roll of members, or by being a member of the Executive or System Administration Committee for that year.
 3.3 : The Membership and committees of the society, shall be bound by the rules and membership rights as documented and determined by the Executive Committee.
 
@@ -28,13 +30,13 @@
 * The Secretary;
 * The Treasurer;
 * The Head System Administrator;
-* 3 Ordinary Committee Members (OCM’s).
+* 8 Ordinary Committee Members (OCMs), including 3 Events Officers, 1 Public Relations Officer, 1 Graphic Design Officer and 3 general OCMs.
 
 4.3 : All the members of the Executive Committee (except the Head System Administrator) shall be elected at the Annual General Meeting of the Society, held yearly. Their term of office shall be from the end of the academic term in which they are elected, until the same time the following year.
 
 5.1 : Meetings of the Executive Committee shall be convened by the Auditor or by requisition of any two members of the Executive Committee. Notice of any such meeting shall be given, where possible, to all members of the Executive Committee at least 24 hours before the time of such a meeting. This requirement for notice applies to both Auditorially-convened meetings as well as ones convened by members of the Executive Committee.
 
-6.1 : The quorum for any meeting of the Executive Committee shall be 4 voting members.
+6.1 : The quorum for any meeting of the Executive Committee shall be 7 voting members.
 
 ## OFFICERS OF THE EXECUTIVE COMMITTEE
 
@@ -81,9 +83,9 @@
 
 ## GENERAL MEETINGS
 
-17.1 : There shall be at least one General Meeting of the Society in each term of every academic year. Subject to this constitution, the agenda for each such meeting shall be arranged by the committee (subject to the powers of the ordinary members of the society as laid down herein).
+17.1 : There shall be at least one General Meeting of the Society in every academic year (including the Annual General Meeting). Subject to this constitution, the agenda for each such meeting shall be arranged by the committee (subject to the powers of the ordinary members of the society as laid down herein).
 
-17.2 : The Annual General Meeting of the society shall be held in the Trinity Term. At this Meeting, the business conducted shall include the election of officers and the delivery of annual reports by the outgoing officers.
+17.2 : The Annual General Meeting of the society shall be held in the second semester. At this Meeting, the business conducted shall include the election of officers and the delivery of annual reports by the outgoing officers.
 
 17.3 : An Extraordinary General Meeting must be convened if requested in writing by at least 20% of or 50 members of the Society.
 
@@ -103,19 +105,17 @@
 
 18.4 : Nominations for the office of Auditor shall be signed by any four members of the Society and shall be given to the Returning Officer at least 3 days prior to the date of the election.
 
-18.5 : To be eligible for nomination a candidate shall have paid the appropriate subscription prior to the end of the Hillary Term immediately preceding, or have been a member of the Executive Committee prior to the end of the self same term.
+18.5 : To be eligible for nomination a candidate must be a fully-paid member of the society.
 
-18.6 : To be eligible for nomination to the position of Auditor, a candidate shall have been been a member of the Executive Committee or System Administration Committee for at least two terms preceding the term in which the Annual General meeting is held. Only if there are no nominees meeting these criteria shall the position be opened to the rest of the membership.
+18.6 : To be eligible for nomination to the position of Auditor, a candidate shall have been been a member of the Executive Committee or System Administration Committee for at least two semesters preceding the semester in which the Annual General meeting is held. Only if there are no nominees meeting these criteria shall the position be opened to the rest of the membership.
 
 18.7 : Nominations for the other offices of the Executive Committee, excluding the Head System Administrator, shall be given to the Returning Officer up to 24 hours before the start of the Annual General Meeting.
 
-18.8 : To be eligible for nomination, a candidate shall have paid the appropriate subscription prior to the end of the Hillary term immediately preceding, or have been a member of the Executive Committee prior to the end of the self-same term.
+18.8 : The Returning Officer, and the Executive Committee, shall arrange the details of the election.
 
-18.9 : The Returning Officer, and the Executive Committee, shall arrange the details of the election.
+18.9 : Any vacancy arising in any office or among the members of the Executive Committee, for whatever reason, shall be filled at the Executive Committees discretion.
 
-18.10 : Any vacancy arising in any office or among the members of the Executive Committee, for whatever reason, shall be filled at the Executive Committees discretion.
-
-19.1 : The incoming Head System Administrator shall be elected at a joint meeting of the outgoing Executive Committee and the outgoing System Administration Committee. At this meeting, the Auditor, Secretary, Treasurer, the 3 Ordinary System Administrators and the 3 Ordinary Committee Members shall each have one vote, whereas the outgoing Head System Administrator shall have two votes. The outgoing Auditor shall have a casting vote.
+19.1 : The incoming Head System Administrator shall be elected at a joint meeting of the outgoing Executive Committee and the outgoing System Administration Committee. At this meeting, the Auditor, Secretary, Treasurer, the 3 Ordinary System Administrators and the 8 Ordinary Committee Members shall each have one vote, whereas the outgoing Head System Administrator shall have two votes. The outgoing Auditor shall have a casting vote.
 
 ## DISMISSAL FROM OFFICE
 
@@ -128,6 +128,7 @@
 20.4 : The resolution shall have been passed by a 2/3rds majority at the General Meeting.
  
 21.1 : The Head System Administrator shall be dismissed from office only by a two thirds majority decision of a joint meeting of the Executive Committee and the System Administration Committee, excluding the Head System Administrator.
+
 22.1 : The Head System Administrator may dismiss from office an Ordinary System Administrator.
 
 ## GENERAL
@@ -139,4 +140,4 @@
 
 24.3 : Notice of a proposal to seek an amendment to this constitution shall be given to all members at least 5 working days prior to the General Meeting at which such proposal will be considered. Such a proposal must receive the approval of 2/3rd of the members present at such a meeting.
 
-24.4 : Notice of any amendment which has been duly approved shall be forwarded to the Registrar of the College, and Student Consultative Forum, by the outgoing secretary, within 1 week of the end of the Trinity Term, that the AGM was held in.
+24.4 : Notice of any amendment which has been duly approved shall be forwarded to the Registrar of the College, and Student Consultative Forum, by the outgoing secretary, within 1 week of the end of the semester that the General Meeting was held in.
